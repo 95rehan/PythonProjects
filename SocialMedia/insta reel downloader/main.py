@@ -12,7 +12,7 @@ import yt_dlp
 class InstaDownloader(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Instagram Reels Downloader")
+        self.setWindowTitle("Instagram Reels Downloader By Rehan")
         self.setFixedSize(500, 220)
 
         layout = QVBoxLayout()
